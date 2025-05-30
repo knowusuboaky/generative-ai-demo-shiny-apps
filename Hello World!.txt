@@ -1,2 +1,0 @@
-Hello World! I am a text file.
-This is a simple text file created to demonstrate the use of the `cat` command in Linux.    
