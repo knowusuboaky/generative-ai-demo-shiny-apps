@@ -1,1 +1,1 @@
-# multiagentR
+Generative AI Demo Shiny Apps
